@@ -1,0 +1,10 @@
+# Logs
+*.log
+
+# Env
+.env
+.venv/
+node_modules/
+
+# OS
+.DS_Store
